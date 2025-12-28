@@ -23,11 +23,11 @@ Simply upload the notebooks to Google Colab, configure your CDS API credentials,
 
 #### ClimaX Model Evaluation
 
-![ClimaX Model Performance](climax_era5.png)
+![ClimaX Model Performance](img/climax_era5.png)
 
 #### Transformer Model Evaluation
 
-![Transformer Model Performance](tranformer_Era5.png)
+![Transformer Model Performance](img/tranformer_Era5.png)
 
 ## 🎯 Project Goals
 
@@ -179,8 +179,8 @@ The project includes comprehensive visualization results:
    - Comprehensive metrics tables
 
 **Visualization Files:**
-- `tranformer_Era5.png` - Transformer model comprehensive evaluation
-- `climax_era5.png` - ClimaX model evaluation results
+- `img/tranformer_Era5.png` - Transformer model comprehensive evaluation
+- `img/climax_era5.png` - ClimaX model evaluation results
 
 ## 🔮 Forecasting
 
@@ -257,8 +257,9 @@ weather-forecast-ai-model-train/
 ├── era5_last_30_days.csv             # Processed ERA5 dataset
 ├── output_climax_forecast_adjusted.xls  # 30-day forecast results
 │
-├── tranformer_Era5.png               # Transformer evaluation plots
-├── climax_era5.png                   # ClimaX evaluation plots
+├── img/                              # Model evaluation visualizations
+│   ├── tranformer_Era5.png          # Transformer evaluation plots
+│   └── climax_era5.png              # ClimaX evaluation plots
 │
 └── README.md                          # This file
 ```
