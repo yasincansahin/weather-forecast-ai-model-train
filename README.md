@@ -308,7 +308,7 @@ weather-forecast-ai-model-train/
 
 ## 📧 Contact
 
-For questions, suggestions, or collaborations, please open an issue or contact the repository maintainer.
+For questions, suggestions, or collaborations, please open an issue or contact the repository maintainer..
 
 ---
 
